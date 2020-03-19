@@ -55,5 +55,6 @@ var islandPerimeter = function (grid) {
 }
 
 let arr = [[0, 1]]
+//solved
 
 console.log(islandPerimeter(arr))
