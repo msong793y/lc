@@ -56,5 +56,4 @@ stack.push(9)
 
 stack.pop()
 
-console.log(stack.getMax())
 console.log(stack.stack)
